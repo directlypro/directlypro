@@ -10,7 +10,7 @@ Hello! Welcome to my repository. I am a Python enthusiast who loves to build fun
 
 - **Operating System**: Linux Mint 🐧 (a dedicated Linux user)
 - **Primary Tools**: Docker 🐳, Ansible 🛠️, and Python 🐍
-- **Editor**: Vim 📝
+- **Editor**: Vim 📝 and Pycharm
 - **Hobbies**: Playing foosball ⚽ and practicing bass guitar 🎸
 
 ## Projects
@@ -43,12 +43,10 @@ Feel free to reach out if you have any questions, suggestions, or collaboration 
 
 - **GitHub**: [Your GitHub Profile URL] 🌐
 - **LinkedIn**: [Your LinkedIn Profile URL] 🔗
-- **Email**: [Your Email Address] 📧
+- **Email**: [proxmtsweni@gmail.com] 📧
 
 Happy coding! 🚀
 
 ---
-
-Feel free to customize this README to better fit your specific projects and preferences.
 
 <img align="Left" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&layout=compact">
