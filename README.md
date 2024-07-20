@@ -42,7 +42,7 @@ I believe computers are the future and that security is paramount. My goal is to
 Feel free to reach out if you have any questions, suggestions, or collaboration ideas. I'm always open to discussing new projects and learning opportunities.
 
 - **GitHub**: [Your GitHub Profile URL] 🌐
-- **LinkedIn**: [Your LinkedIn Profile URL] 🔗
+- **LinkedIn**: [ http://linkedin.com/in/providence-mtsweni-3a7951225] 🔗
 - **Email**: [proxmtsweni@gmail.com] 📧
 
 Happy coding! 🚀
