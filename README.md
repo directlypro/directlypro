@@ -31,7 +31,7 @@ I enjoy developing APIs that simplify and automate everyday tasks. Here are some
 
 ## Why Backend Development?
 
-Before dedicating myself fully to backend development, I was very interested in becoming a frontend developer because I thought it was really cool. However, my passion for backend development emerged when I started building a simple Python project. I found it fascinating and wanted to learn more about it. ❤️
+Before dedicating myself fully to backend development, I was very interested in becoming a front-end developer because I thought it was really cool. However, my passion for backend development emerged when I started building a simple Python project. I found it fascinating and wanted to learn more about it. ❤️
 
 ## Philosophy
 
@@ -41,9 +41,9 @@ I believe computers are the future and that security is paramount. My goal is to
 
 Feel free to reach out if you have any questions, suggestions, or collaboration ideas. I'm always open to discussing new projects and learning opportunities.
 
-- **GitHub**: [Your GitHub Profile URL] 🌐
 - **LinkedIn**: [ http://linkedin.com/in/providence-mtsweni-3a7951225] 🔗
 - **Email**: [proxmtsweni@gmail.com] 📧
+-  **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
 
 Happy coding! 🚀
 
