@@ -15,13 +15,6 @@ Hello! Welcome to my repository. I am a Python enthusiast who loves to build fun
 
 ## Projects
 
-### APIs for Daily Tasks
-I enjoy developing APIs that simplify and automate everyday tasks. Here are some of the projects I've worked on:
-
-1. **Task Manager API**: A RESTful API to manage daily tasks, with features like creating, updating, and deleting tasks, setting reminders, and categorizing tasks. 📅
-2. **Personal Finance Tracker API**: An API to track personal finances, manage expenses, and generate reports. 💰
-3. **Fitness Tracker API**: An API to log workouts, track progress, and set fitness goals. 🏋️
-
 ## Development Environment
 
 - **Linux Mint**: My preferred operating system for development. 🖥️
