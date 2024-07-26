@@ -4,14 +4,14 @@
 
 ## Introduction
 
-Hello! Welcome to my repository. I am a Python enthusiast who loves to build fun and impactful software projects using frameworks like Django, Flask, and FastAPI. My primary focus is on creating APIs that can improve daily tasks and enhance productivity. I'm also fascinated by open-source API projects like the Spotify API. 🎧
+Heyo! Welcome to my repository. I am a Python enthusiast who loves to build fun and impactful software projects using frameworks like Django, Flask, and FastAPI. My primary focus is on creating APIs that can improve daily tasks and enhance productivity. I'm also fascinated by open-source API projects like the Spotify API. 🎧
 
 ## About Me
 
 - **Operating System**: Linux Mint 🐧 (a dedicated Linux user)
 - **Primary Tools**: Docker 🐳, Ansible 🛠️, and Python 🐍
 - **Editor**: Vim 📝 and Pycharm
-- **Hobbies**: Playing foosball ⚽ and practicing bass guitar 🎸
+- **Hobbies**: Coding, playing foosball ⚽ and playing bass guitar 🎸
 
 ## Projects
 
