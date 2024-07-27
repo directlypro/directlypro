@@ -39,7 +39,6 @@ Feel free to reach out if you have any questions, suggestions, or collaboration 
 -  **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
 
 Happy coding! 🚀
-
 ---
 
 <img align="Left" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&layout=compact">
