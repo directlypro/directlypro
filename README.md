@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Heyo! Welcome to my repository. I am a Python enthusiast who loves to build fun and impactful software projects using frameworks like Django, Flask, and FastAPI. My primary focus is on creating APIs that can improve daily tasks and enhance productivity. I'm also fascinated by open-source API projects like the Spotify API. 🎧
+Heyo!! Welcome to my repository. I am a Python enthusiast who loves to build fun and impactful software projects using frameworks like Django, Flask, and FastAPI. My primary focus is on creating APIs that can improve daily tasks and enhance productivity. I'm also fascinated by open-source API projects like the Spotify API. 🎧
 
 ## About Me
 
@@ -39,6 +39,6 @@ Feel free to reach out if you have any questions, suggestions, or collaboration 
 -  **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
 
 Happy coding! 🚀
----
+----------------
 
 <img align="Left" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&layout=compact">
