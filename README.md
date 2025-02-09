@@ -12,9 +12,7 @@ Heyo!! Welcome to my repository. I am a Python enthusiast who loves to build fun
 - **Primary Tools**: Docker 🐳, Ansible 🛠️, and Python 🐍
 - **Editor**: Vim 📝 and Pycharm
 - **Hobbies**: Coding, playing foosball ⚽ and playing bass guitar 🎸
-
-## Projects
-
+- 
 ## Development Environment
 
 - **Linux Mint**: My preferred operating system for development. 🖥️
