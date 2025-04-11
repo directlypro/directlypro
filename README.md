@@ -1,9 +1,6 @@
 # Hi there I'm Providence 👋
 
-# Welcome to my README
-
 ## Introduction
-
 Heyo!! Welcome back to my Youtube Channel😅 (repository).
 I'm Providence, I like to build stuff, especially APIs, and anything backend related. My go to language for backend right now is Go. 
 `git checkout` some of my github repos their pretty cool, well I'd like to think they are😂😂😂
