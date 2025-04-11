@@ -17,9 +17,10 @@ I'm Providence, I like to build stuff, especially APIs, and anything backend rel
 - **Goland/Pycharm**: My go-to text editor is basically anything from jetbrains, also VIM. ✍️
 - **Docker**: Used for containerization of my porjects. 📦
 
+## Socials
 - **LinkedIn**: [ http://linkedin.com/in/providence-mtsweni-3a7951225] 🔗
-- **Email**: [proxmtsweni@gmail.com] 📧
--  **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
+- **Email**: [providence@cosmicrec.co.za] 📧
+- **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
 
 Happy coding! 🚀
 ----------------
