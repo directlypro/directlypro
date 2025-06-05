@@ -21,6 +21,6 @@ I'm Providence, I like to build stuff, especially APIs, and anything backend rel
 
 Happy coding! 🚀
 ----------------
-#### dont't for get to like and subscribe!!!
+#### dont't forget to like and subscribe!!!
 ----------------
 <img align="Left" width="35%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&layout=compact">
