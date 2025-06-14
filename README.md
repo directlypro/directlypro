@@ -12,7 +12,7 @@ I'm Providence, I like to build stuff, especially APIs, and anything backend rel
 ## Development Environment
 - **Fedora Linux**: My preferred operating system for development. 🖥️
 - **Goland/Pycharm**: My go-to text editor is basically anything from jetbrains, also VIM. ✍️
-- **Docker**: Used for containerization of my porjects. 📦
+- **Docker**: I like putting things inside of containers. 📦
 
 ## Socials
 - **LinkedIn**: [ http://linkedin.com/in/providence-mtsweni-3a7951225] 🔗
