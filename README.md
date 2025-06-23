@@ -7,7 +7,7 @@ I'm **Providence**, I like to build stuff, especially APIs, and anything backend
 
 - **Operating System**: Fedora 🐧 (Linux user)
 - **Primary Tools**: Go and Python
-- **Hobbies**: Coding, foosball ⚽ and playing bass guitar 🎸
+- **Hobbies**: Coding, and playing bass guitar 🎸
   
 ## Development Environment
 - **Fedora Linux**: My preferred operating system for development. 🖥️
