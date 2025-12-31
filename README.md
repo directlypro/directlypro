@@ -23,4 +23,3 @@ Happy coding! 🚀
 ----------------
 #### Dont't forget to like and subscribe!!!
 ----------------
-<img align="Left" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&layout=compact">
