@@ -25,9 +25,6 @@ slowly but surely getting comfortable on it. Still saving up to buy the **JetBra
 ![](https://nirzak-streak-stats.vercel.app/?user=directlypro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=directlypro&icon=4&color=0)](https://visitcount.itsvg.in)
-
 Happy coding! 🚀
 ----------------
 #### Dont't forget to like and subscribe!!!
