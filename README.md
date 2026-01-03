@@ -20,7 +20,7 @@ I'm **Providence**, I like to build stuff, especially APIs, and anything backend
 - **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=directlypro)](https://github.com/anuraghazra/github-readme-stats)
 
 Happy coding! 🚀
 ----------------
