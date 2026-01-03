@@ -19,6 +19,9 @@ I'm **Providence**, I like to build stuff, especially APIs, and anything backend
 - **Email**: [providence@cosmicrec.co.za] 📧
 - **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro)](https://github.com/anuraghazra/github-readme-stats)
+
 Happy coding! 🚀
 ----------------
 #### Dont't forget to like and subscribe!!!
