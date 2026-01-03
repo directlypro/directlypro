@@ -19,8 +19,13 @@ I'm **Providence**, I like to build stuff, especially APIs, and anything backend
 - **Email**: [providence@cosmicrec.co.za] 📧
 - **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=directlypro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=directlypro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=directlypro)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://visitcount.itsvg.in/api?id=directlypro&icon=4&color=0)](https://visitcount.itsvg.in)
 
 Happy coding! 🚀
 ----------------
