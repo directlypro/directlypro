@@ -25,8 +25,8 @@ slowly but surely getting comfortable on it. Still saving up to buy the **JetBra
 ![](https://nirzak-streak-stats.vercel.app/?user=directlypro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://denvercoder1-github-readme-stats.vercel.app/api?username=directlypro&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=directlypro&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![](https://denvercoder1-github-readme-stats.vercel.app/api?username=directlypro&show_icons=true&count_private=true)
+![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=directlypro&langs_count=8&layout=compact)
 
 Happy coding! 🚀
 ----------------
