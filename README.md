@@ -4,7 +4,7 @@
 
 ## Introduction
 Heyo! Welcome back to my Youtube Channel😅 (repository).
-I'm **Providence**, I like to build stuff, a wide range of stuff currently, especially APIs, and anything backend related. My go to language for backend right now is Go. 
+I'm **Providence**, I like to build stuff, a wide range of stuff currently, especially APIs, and anything backend related. My go to language for backend right now is Go. I've picked up something new, we're now dabbling with cpp🤫 
 `git checkout` some of my github repos they are pretty cool, well I'd like to think they are.
 
 - **Operating System**: Fedora 42 & Macos
