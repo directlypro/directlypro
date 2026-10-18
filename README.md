@@ -7,10 +7,8 @@ Backend developer who likes building APIs and anything backend. Go is my go to r
 **Stack**  
 Go · Python · PHP · Laravel · PostgreSQL · MongoDB · Docker · Nginx · Ansible · AWS · Linux
 
-## Socials
-- **LinkedIn**: [ http://linkedin.com/in/providence-mtsweni-3a7951225] 🔗
-- **Email**: [providence@cosmicrec.co.za] 📧
-- **SoundCloud**: [https://soundcloud.com/blueboyego] 🎸
+**Find me**  
+[LinkedIn](https://linkedin.com/in/providence-mtsweni-3a7951225) · [Email](mailto:providence@cosmicrec.co.za) · [SoundCloud](https://soundcloud.com/blueboyego)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
