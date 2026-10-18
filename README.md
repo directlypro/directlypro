@@ -10,7 +10,8 @@ Go · Python · PHP · Laravel · PostgreSQL · MongoDB · Docker · Nginx · An
 **Find me**  
 [LinkedIn](https://linkedin.com/in/providence-mtsweni-3a7951225) · [Email](mailto:providence@cosmicrec.co.za) · [SoundCloud](https://soundcloud.com/blueboyego)
 
-## 📊 GitHub Stats:
+
+## Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=directlypro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
